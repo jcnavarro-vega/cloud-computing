@@ -1,2 +1,2 @@
 # quotes-generator
-A simple PHP application to generate a random quote as HTML.
+Una simple aplicación en PHP para generar citas aleatoriamente como HTML.
